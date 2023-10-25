@@ -1,1 +1,3 @@
 # chatbot
+
+creating a chatbot that generates research paper links for esearch topics. We created 11 intents for 11 topics in dialgflow varying from Security, NLP etc... We want to integrate them with fast api to the backend and provided main.py is the code for backend which we did till now. cant move forward. How to link the intents from Dialogflow with Python to webscarep the links from website? If we have code for one intent, we can make it for all other intents. When we aretrying to run the code in the above main.py file from local host, it is showing something like method not found error. Added fulfillment in the dialogflow. 
